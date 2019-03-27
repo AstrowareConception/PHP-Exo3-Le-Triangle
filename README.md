@@ -6,7 +6,7 @@ Créez une fonction qui prend un paramètre de type int, cela déterminera la ha
 # Exemple
 display_triangle(10) ; 
 
-produire le résultat suivant :
+Produira le résultat suivant :
 
 
              **
